@@ -23,7 +23,7 @@
 - Kibana
 - Azure DevOps
 ## Achivements & contributions
-- Achieved a 30% reduction in data processing time and established a scalable and secured workflows integration system leveraging Azure Cloud.
+- Achieved a 60% reduction in data processing time and established a scalable and secured workflows integration system leveraging Azure Cloud.
 - Gained good knowledge and appreciation from the stakeholders.
-- Played multiple role as Azure architect, Sr.Data engineer, DevOps engineer.
+- Played multiple role as Azure architect, Azure Integration Engineer, DevOps engineer.
 - Provided mentorship to junior engineers.
