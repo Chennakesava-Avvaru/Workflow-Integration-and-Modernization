@@ -8,7 +8,7 @@
 ![mainArc](https://github.com/Chennakesava-Avvaru/Workflow-Integration-and-Modernization/blob/main/WM_ARC_MAIN.png)
 - Low level design of the Business workflows in the logic app.
 ![lowleveldesign](https://github.com/Chennakesava-Avvaru/Workflow-Integration-and-Modernization/blob/main/WM_ARC.drawio.png)
-- Developed and deployed 28 workflows into production with high availability and efficiency. Most of them are in a low-code environment, requiring no maintenance in the future.
+- Developed and deployed 40+ workflows into production with high availability and efficiency. Most of them are in a low-code environment, requiring no maintenance in the future.
 ## Technologies Used
 - Azure Logic Apps
 - Azure Data Factory
